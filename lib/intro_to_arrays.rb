@@ -1,3 +1,3 @@
-def something
-
+def instantiate_new_array
+  []
 end
